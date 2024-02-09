@@ -1,0 +1,13 @@
+langchain
+torch
+accelerate
+transformers
+sentence_transformers
+streamlit
+streamlit_chat
+faiss-cpu
+altair
+tiktoken
+huggingface-hub
+langchain_community
+HUGGINGFACEHUB_API_TOKEN='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'
