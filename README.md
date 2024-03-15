@@ -13,5 +13,5 @@
 ## How to Use:
 - Clone the repository.
 - Install dependencies (pip install -r requirements.txt).
-- Run the chatbot script (python chatbot.py).
+- Run the chatbot script (streamlit run chatbot.py).
 - Follow the on-screen instructions to interact with the chatbot.
